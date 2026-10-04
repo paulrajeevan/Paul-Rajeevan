@@ -68,7 +68,7 @@ This repository is ready for immediate deployment on **GitHub Pages**:
 ## 📬 Contact & Connect
 
 - **Website**: [paulrajeevan.com](https://paulrajeevan.com)
-- **GitHub**: [@Paul-Rajeevan-Nimalarajah](https://github.com/Paul-Rajeevan-Nimalarajah)
+- **GitHub**: [@paulrajeevan](https://github.com/paulrajeevan)
 - **LinkedIn**: [Paul Rajeevan](https://www.linkedin.com/in/paul-rajeevan/)
 - **YouTube**: [@paulrajeevan](https://www.youtube.com/@paulrajeevan)
 - **Email**: [contact@paulrajeevan.com](mailto:contact@paulrajeevan.com)

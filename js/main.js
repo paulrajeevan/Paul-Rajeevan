@@ -21,7 +21,7 @@
         'Zero-latency static architecture optimized for low-bandwidth mobile connections.'
       ],
       tags: ['HTML5', 'CSS3', 'JavaScript', 'Sri Lanka Exams', 'A/L ICT', 'Tamil Medium'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/AL-ICT'
+      link: 'https://github.com/paulrajeevan/AL-ICT'
     },
     'gesture-snake': {
       title: 'AI Gesture Snake',
@@ -34,7 +34,7 @@
         'Built-in webcam permission handler and privacy-first local processing guarantee.'
       ],
       tags: ['MediaPipe', 'Computer Vision', 'Canvas API', 'Vanilla JavaScript', 'AI Gaming'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/ai-gesture-snake'
+      link: 'https://github.com/paulrajeevan/ai-gesture-snake'
     },
     'netblocker': {
       title: 'NetBlocker Android',
@@ -47,7 +47,7 @@
         'Zero persistent battery drain compared to local VPN-based blocking implementations.'
       ],
       tags: ['Kotlin', 'Android SDK', 'IPTables', 'Linux Shell', 'Root Security'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/NetBlocker'
+      link: 'https://github.com/paulrajeevan/NetBlocker'
     },
     'hotspot-controller': {
       title: 'HotspotController Android',
@@ -60,7 +60,7 @@
         'Designed to give users desktop-router grade control directly from their smartphone.'
       ],
       tags: ['Kotlin', 'Android Root', 'IPTables', 'ARP Inspection', 'Mobile Network'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/HotspotController'
+      link: 'https://github.com/paulrajeevan/HotspotController'
     },
     'hybridos': {
       title: 'HybridOS Kernel',
@@ -73,7 +73,7 @@
         'Exploration of binary execution compatibility layers at the kernel level.'
       ],
       tags: ['Assembly (NASM)', 'C', 'Kernel Dev', 'x86 Architecture', 'Systems Programming'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/HybridOS'
+      link: 'https://github.com/paulrajeevan/HybridOS'
     },
     'local-ai-telegram': {
       title: 'Local AI Telegram Bridge',
@@ -86,7 +86,7 @@
         'Custom system prompts and support for multi-turn conversational context.'
       ],
       tags: ['Python', 'Ollama API', 'Telegram Bot API', 'Local AI', 'Automation'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah'
+      link: 'https://github.com/paulrajeevan'
     },
     'rps-game': {
       title: 'Rock Paper Scissors AI Game',
@@ -98,7 +98,7 @@
         'Accessible to anyone with a standard webcam without needing specialized AI accelerators.'
       ],
       tags: ['JavaScript', 'Teachable Machine', 'TensorFlow.js', 'Webcam AI', 'Browser Gaming'],
-      link: 'https://github.com/Paul-Rajeevan-Nimalarajah/rps-game'
+      link: 'https://github.com/paulrajeevan/rps-game'
     }
   };
 
