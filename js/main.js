@@ -10,6 +10,19 @@
   // Data Store: Project Details
   // ----------------------------------------------------------------------------
   const PROJECTS_DATA = {
+    'learnymo': {
+      title: 'LearnyMo — Topic-First Learning & Tutoring Platform',
+      category: 'Full-Stack MERN Marketplace',
+      description: 'A full-stack educational marketplace built with the MERN stack (MongoDB, Express.js, React 19, Node.js) for Sri Lankan O/L and A/L students and verified teachers. Unlike traditional full-year tuition models, LearnyMo enables students to book classes for the exact Topic, Unit, Past Paper, or Full Subject they need on demand.',
+      highlights: [
+        '7 flexible class booking formats (1-to-1 Sessions, Group, Topic, Unit, Paper, Full Subject, and Multi-Day Series) with protected chat and an 80% / 20% teacher wallet split.',
+        'Interactive O/L & A/L syllabus tracker with live "Not Clear" topic demand matching that alerts verified teachers to student demand.',
+        'Built-in 1–4–7 scientific spaced-repetition study planner (Day 1 Learn • Day 4 Review • Day 7 Recall & Test).',
+        'Role-based JWT authentication & authorization across Student, Verified Teacher, and Admin portals with a credential verification queue.'
+      ],
+      tags: ['MongoDB', 'Express.js', 'React 19', 'Node.js', 'Tailwind CSS', 'JWT Auth'],
+      link: 'https://github.com/paulrajeevan/Uki-Final-Project'
+    },
     'al-ict': {
       title: 'AL-ICT Notes Hub',
       category: 'Educational Web Platform',

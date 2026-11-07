@@ -1,4 +1,4 @@
-# Paul Rajeevan – Software Developer & Vibe Coding Specialist
+# Paul Rajeevan – Full-Stack Software Developer & Engineer
 
 > Modern, zero-latency static portfolio website for **Paul Rajeevan Nimalarajah**.  
 > Built with Semantic HTML5, Vanilla CSS Design System, and Native JavaScript.
@@ -10,8 +10,8 @@
 - **⚡ Zero-Latency Architecture**: 100% static, fast-loading, zero build steps, and zero heavy dependencies.
 - **🎨 Glassmorphism & Fluid Design**: Modern aesthetic featuring curated color palettes, ambient glows, fluid typography, and responsive layouts.
 - **🌓 Light / Dark Mode Toggle**: Theme switcher with smooth CSS transitions and local storage persistence.
-- **🛠️ The Power Stack**: Categorized skill matrix highlighting Frontend, Backend, Mobile, Cloud, AI & Automation, and Developer Tools.
-- **💻 Featured Project Showcase**: Detailed cards showcasing real GitHub repositories and software solutions (AL-ICT Notes Hub, AI Gesture Snake, NetBlocker, HotspotController, HybridOS, Local AI Telegram Bridge, and Rock Paper Scissors).
+- **🛠️ The Power Stack**: Categorized skill matrix highlighting Full-Stack MERN (MongoDB, Express.js, React, Node.js), Next.js, Mobile, Databases & Cloud, AI & Automation, and Developer Tools.
+- **💻 Featured Project Showcase**: Detailed cards showcasing real GitHub repositories and full-stack software solutions (LearnyMo MERN Marketplace, AL-ICT Notes Hub, AI Gesture Snake, NetBlocker, HotspotController, HybridOS, Local AI Telegram Bridge, and Rock Paper Scissors).
 - **📬 Direct Contact Channels**: Clean, direct reach-out options with click-to-copy email, GitHub, LinkedIn, YouTube, and remote availability.
 
 ---
